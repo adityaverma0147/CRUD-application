@@ -1,0 +1,11 @@
+{
+  "mysql": {
+    "url": "jdbc:mysql://localhost:3306/user_data",
+    "username": "adityaverma",
+    "password": "Admin@123"
+  },
+  "jetty": {
+    "jetty_host": "127.0.0.1",
+    "jetty_port": 8080
+  }
+  }
